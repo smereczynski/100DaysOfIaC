@@ -208,3 +208,7 @@ steps:
 ## Conclusion
 
 In this article we discussed how we can add outputs to our ARM template and use this output in our pipeline in subsequent tasks. You can find all Artifacts used in this article [here](../resources/day67)
+
+## Subscription-level deployments
+<br />
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-subscription
